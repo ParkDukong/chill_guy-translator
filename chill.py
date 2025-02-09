@@ -1,5 +1,5 @@
-print("Chill guy translator - test version")
-print("Use only korean.")
+print("Chill guy translator")
+print("Use only korean language")
 
 filter_texts = ["칠", "치", "질", "지", "7"]
 
