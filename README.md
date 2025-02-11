@@ -8,3 +8,6 @@ so chill library and so chill python code.
 chill chill 맞지 않다면 이 라이브러리의 코드를 한번쯤은 실행해보세요.
 
 참고로 한국어만 지원됨.
+
+칠 가이만 사용 가능.
+Only use chill guy.
